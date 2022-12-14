@@ -10,4 +10,4 @@
  - #### 최종적으로 둘 중 한 플레이어가 가진 카드 수가 0장이 되면  게임이 종료되고 56장의 카드를 가진 플레이어가 할리갈리 게임에 승리한다.
  
  ## 프로그램 클래스 다이어그램
- <img src="./Untitled_Workspace.png#gh-dark-mode-only"" width="100%" height="100%"/>
+ <img src="./Untitled_Workspace.png"#gh-dark-mode-only" width="100%" height="100%"/>
